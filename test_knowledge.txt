@@ -1,0 +1,3 @@
+Nimmi AI is developed by the Google Deepmind team.
+The secret passphrase is 'Antigravity'.
+The office is located on Mars, Crater 42.
